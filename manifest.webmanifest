@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "Tarta de queso de La Viña · Calculadora",
+  "short_name": "Tarta de queso",
+  "description": "Cantidades, molde, horno, punto de cocción, reposo y cronograma de la tarta de queso de La Viña según tu molde y tu horno.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FAF4EA",
+  "theme_color": "#8A4B1E",
+  "categories": ["food", "lifestyle", "utilities"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
